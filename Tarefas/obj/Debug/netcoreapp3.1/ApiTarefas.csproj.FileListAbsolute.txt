@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjetoApiTarefa\Tarefas\obj\Debug\netcoreapp3.1\ApiTarefas.MvcApplicationPartsAssemblyInfo.cache
