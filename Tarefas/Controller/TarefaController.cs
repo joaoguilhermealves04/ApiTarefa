@@ -1,6 +1,5 @@
-﻿using apiDomain.Entities;
+﻿using ApiDomain.Entities;
 using ApiRepository.Contracts;
-using ApiRepository.Repository;
 using ApiTarefas.Model;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -93,6 +92,7 @@ namespace ApiTarefas.Controller
             }
         }
 
+        [HttpGet("ObterPornome")]
         public IActionResult ObterPornome(string nome)
         {
             try

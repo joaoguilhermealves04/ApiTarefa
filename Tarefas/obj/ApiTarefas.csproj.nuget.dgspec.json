@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\Tarefas\\ApiTarefas.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\Tarefas\\ApiTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiDomain\\ApiDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj",
-        "projectName": "apiDomain",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiDomain\\ApiDomain.csproj",
+        "projectName": "ApiDomain",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiDomain\\ApiDomain.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\ApiRepository\\ApiRepository.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiRepositorio\\ApiRepositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\ApiRepository\\ApiRepository.csproj",
-        "projectName": "ApiRepository",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\ApiRepository\\ApiRepository.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiRepositorio\\ApiRepositorio.csproj",
+        "projectName": "ApiRepositorio",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiRepositorio\\ApiRepositorio.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\ApiRepository\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiRepositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj"
+              "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiDomain\\ApiDomain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiDomain\\ApiDomain.csproj"
               }
             }
           }
@@ -100,23 +114,27 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -138,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\Tarefas\\ApiTarefas.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\Tarefas\\ApiTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\Tarefas\\ApiTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\Tarefas\\ApiTarefas.csproj",
         "projectName": "ApiTarefas",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\Tarefas\\ApiTarefas.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\Tarefas\\ApiTarefas.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\Tarefas\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\Tarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,11 +180,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\apiDomin\\apiDomain.csproj"
-              },
-              "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\ApiRepository\\ApiRepository.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\source\\repos\\ProjetoApiTarefa\\ApiRepository\\ApiRepository.csproj"
+              "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiRepositorio\\ApiRepositorio.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projetos GIT\\ApiTarefa\\Tarefas\\2\\ApiTarefa\\ApiRepositorio\\ApiRepositorio.csproj"
               }
             }
           }
@@ -180,6 +195,36 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

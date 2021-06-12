@@ -1,0 +1,24 @@
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.deps.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csprojAssemblyReference.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfoInputs.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfo.cs
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.runtimeconfig.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.runtimeconfig.dev.json
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.genruntimeconfig.cache
+C:\Users\Rafael E Brenda\Documents\GIT\Teste Joao Guilherme\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.deps.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.dll
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.pdb
+C:\Users\Usuario\Documents\Projetos GIT\ApiTarefa\Tarefas\2\ApiTarefa\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.genruntimeconfig.cache

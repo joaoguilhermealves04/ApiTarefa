@@ -1,11 +1,8 @@
-﻿using apiDomin.Entities;
+﻿using ApiDomain.Entities;
 using ApiRepository.Contracts;
 using ApiTarefas.Model;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace ApiTarefas.Controller
 {
@@ -21,7 +18,7 @@ namespace ApiTarefas.Controller
         }
 
 
-        [HttpPost]
+        [HttpPost("Cadastrar")]
         public IActionResult Post(UsuarioModel model)
         {
             try
@@ -29,7 +26,7 @@ namespace ApiTarefas.Controller
                 var usuario = new Usuario();
                 usuario.Nome = model.Nome;
                 usuario.Email = model.Email;
-                usuario.Senhar = model.Senhar;
+                usuario.Senha = model.Senhar;
 
                 var emailExiste = _usuarioRepository.ObterPorEmail(model.Email);
                 if (emailExiste != null)
@@ -51,13 +48,17 @@ namespace ApiTarefas.Controller
         {
             try
             {
-                var usuarioExistente = _usuarioRepository.Login(usuario.Email, usuario.Senha);
+                var usuarioExistente = _usuarioRepository.ObterPorEmail(usuario.Email);
                 if (usuarioExistente != null)
                 {
-                    return Ok(usuarioExistente);
+                    return  StatusCode(400,"Não existe Usuario Com esse Email.");
+                }
+                if(usuarioExistente.Senha != usuario.Senha)
+                {
+                    return StatusCode(400, "Senha invalida ");
                 }
 
-                return StatusCode(404, "Usuário e / ou senha inválidos");
+                return StatusCode(200, "Usuário e / ou senha inválidos");
             }
             catch (Exception e)
             {

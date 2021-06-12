@@ -1,4 +1,0 @@
-C:\Users\Usuario\source\repos\ProjetoApiTarefa\ApiRepository\obj\Debug\netcoreapp3.1\ApiRepository.AssemblyInfoInputs.cache
-C:\Users\Usuario\source\repos\ProjetoApiTarefa\ApiRepository\obj\Debug\netcoreapp3.1\ApiRepository.AssemblyInfo.cs
-C:\Users\Usuario\source\repos\ProjetoApiTarefa\ApiRepository\obj\Debug\netcoreapp3.1\ApiRepository.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\ProjetoApiTarefa\ApiRepository\obj\Debug\netcoreapp3.1\ApiRepository.csprojAssemblyReference.cache
